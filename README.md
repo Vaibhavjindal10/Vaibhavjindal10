@@ -10,7 +10,7 @@
   - **Data Analytics:** SQL, Python, and visualization libraries  
   - **DSA:** Improving problem-solving skills  
 - 💞️ **Looking to collaborate on:** Open-source projects and full-stack apps  
-- 📫 **Reach me at:** [your-email@gmail.com](mailto:vaibhav.jindal1996@gmail.com)  
+- 📫 **Reach me at:** [vaibhav.jindal1996@gmail.com](mailto:vaibhav.jindal1996@gmail.com)  
 
 ---
 
